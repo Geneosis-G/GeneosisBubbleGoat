@@ -1,0 +1,33 @@
+Profesionnal bubbleologist,
+
+this is how you call yourself. As an artist working with bubbles, you never ceases to amaze your spectators!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Bubble Goat: You can make bubbles.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][1]:[/b] Hold to make bubbles.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][LB]:[/b] Hold to make bubbles.
+
+[b]CHARACTERISTICS[/b]
+- Bubbles will float around randomly.
+- If a bubble hit something, or if too much time passes, it will pop.
+- When two bubbles collide, they will merge into a bigger one.
+
+[b]EASTER EGGS[/b]
+- [spoiler]You can step on bubbles![/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Game crashes randomly after a few minutes using this mod... Looks like it's a graphic driver related crash, so I hope it's not happening for everyone.
+- Sometimes bubbles won't pop and will fly super fast in a direction when hit by a player.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This idea may seems quite simple and pointless... But I really liked it because it was offering a cool way to provide floating platforms in this game :)
+So I made the bubbles as solid semi-transparent spheres that will explode most of the time when something touch them. And I added a special conditions for goat players, to let them walk on top of the bubbles without exploding them ^^
+When this was done, I thought I could add another fun feature which is to allow bubbles to merge with each other :D This is done by computing the total surface of two touching bubbles, then removing them and making a new bubble with that surface in their place.
+The only really bad point in this mod is, as mentionned in the bugs section, the unexplained crash that happen when using this mod... I really have no clue what is causing it, and the logs are not helping at all to fix it -_-
+[/quote]
